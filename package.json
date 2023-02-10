@@ -1,7 +1,6 @@
 {
   "name": "global-earthquakes",
   "version": "3.1.0",
-  "private": true,
   "homepage": "https://kboul.github.io/global-earthquakes",
   "dependencies": {
     "@tanstack/react-query": "4.13.4",
